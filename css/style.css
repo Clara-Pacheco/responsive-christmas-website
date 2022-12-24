@@ -38,6 +38,7 @@
 --z-tooltip: 10;
 --z-fixed: 100;
 
+}
 /*================= RESPONSIVE TYPOGRAPHY =====================*/
 
 @media screen and (mind-width:1024px) {
@@ -50,8 +51,6 @@
     --small-font-size: .875rem;
     --smaller-font-size: .813rem;
   }
-}
-
 }
 
 /*================= BASE =====================*/
@@ -91,12 +90,32 @@ img {
   height: auto;
 }
 
-
-
-
 /*================= REUSABLE CSS CLASSES =====================*/
 
+.container {
+  max-width: 1024px;
+  margin-inline: 1.5rem;
+}
 
+.grid {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.section {
+  padding-block: 5rem 1rem;
+}
+
+.section__title{
+  font-size: var(--h1-font-size);
+  font-family: var(--second-font);
+  text-align: center;
+  margin: 1.5rem;
+}
+
+.main {
+  overflow: hidden; /* For animations */
+}
 
 
 /*================= SNOW ANIMATION =====================*/
