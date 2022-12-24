@@ -52,3 +52,16 @@ if(navClose){
       this.scrollY >= 50 ? header.classList.add('bg-header')
                          : header.classList.remove('bg-header')
     })
+
+
+    /*================= SHOW SCROLL UP ==================*/
+
+    window.addEventListener('scroll',() => {
+      const scrollUp = document.querySelector('.scrollup')
+      this.scrollY >= 350 ? scrollUp.classList.add('show-scroll')
+                          : scrollUp.classList.remove('show-scroll')
+    })
+
+    /*================= SHOW SECTIONS ACTIVE LINK ================*/
+
+    
