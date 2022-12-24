@@ -182,6 +182,8 @@ img {
   cursor: pointer;
 }
 
+/*================= SMALLER SCREENS =====================*/
+
 @media screen and (max-width: 767px){
   .nav__menu {
     position: absolute;
@@ -247,12 +249,48 @@ img {
 .show-menu {
   top: 0;
 }
-/*================= REMOVE MENU MOBILE =====================*/
-
 
 /*================= CHANGE BACKGROUND HEADER =====================*/
 
 
+/*================= HOME =====================*/
+.home {
+  position: relative;
+  background: linear-gradient(180deg,
+                  hsl(210, 88%, 20%),
+                  hsl(210, 70%, 58%));
+  height: 650px;
+  padding-top: 7rem;
+  overflow: hidden;
+}
+
+.home__title {
+  color:var(--white-color);
+  font-size:var(--biggest-font-size);
+  font-family: var(--second-font);
+  text-align: center;
+  margin-top: 1.5rem;
+}
+
+.home img {
+  position: absolute;
+  
+}
+
+
+/*================= ABOUT =====================*/
+
+
+/*================= BUTTON =====================*/
+
+
+/*================= SEND =====================*/
+
+
+/*================= CELEBRATE =====================*/
+
+
+/*================= FOOTER =====================*/
 
 
 
