@@ -605,6 +605,82 @@ img {
   bottom: 2rem;
 }
 
+/*======================= BREAKPOINTS ==========================*/
+
+/* For medium devices*/
+
+@media screen and (min-width: 576px) {
+  .home__village {
+    width: 360px;
+  }
+
+  .home__pine {
+    width: 330px;
+  }
+
+  .about__container,
+  .celebrate__container {
+    grid-template-columns: .6fr;
+    justify-content: center;
+  }
+}
+
+@media screen and (min-width: 767px) {
+ 
+  .nav__close,
+  .nav__toggle,
+  .nav__img-1,
+  .nav__img-2 {
+    display: none; 
+  }
+
+  .nav__list {
+    display: flex;
+    flex-direction: row;
+    column-gap: 4rem;
+    
+  }
+
+  .nav__link {
+    color:var(--white-color);
+    font-weight: var(--font-medium);
+    transition: color .4s;
+  }
+
+  .home {
+    height: 800px;
+  }
+
+  .home__village {
+    width: 460px;
+  }
+
+  .home__pine {
+    width: 400px;
+    bottom: 7rem;
+  }
+
+  .home__moon {
+    width: 450px;
+    bottom: 12rem;
+  }
+
+  .home__trineo {
+    widows: 350px;
+    bottom: 20rem;
+  }
+
+  .send__container {
+    grid-template-columns: repeat(2, 200px);
+    column-gap: 5rem;
+  }
+  
+
+}
+
+/* For large devices*/
+
+/* For 2k+ devices*/
 
 
 
