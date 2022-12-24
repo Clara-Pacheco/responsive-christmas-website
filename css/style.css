@@ -166,8 +166,25 @@ img {
 }
 
 .nav__toggle {
-  
+  font-size: 1.25rem;
+  cursor: pointer;
 }
+
+@media screen and (max-width: 767px){
+  .nav__menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: var(--body-color);
+    width: 100px;
+    padding-block: 3.5rem;
+    transition: top .4s;
+
+
+  }
+}
+
+
 
 
 
