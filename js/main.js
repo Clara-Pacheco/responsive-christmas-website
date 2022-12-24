@@ -4,6 +4,7 @@ const navMenu = document.querySelector('.nav__menu')
 const navToggle = document.querySelector('.nav__toggle')
 const navClose = document.querySelector('.nav__close')
 const navUpperBarShow = document.querySelector('.upper-bar-open')
+const header = document.querySelector('.header')
 
 console.log(navMenu)
 console.log(navToggle)
@@ -37,10 +38,17 @@ if(navClose){
  console.log(navLink)
 
  // When we click on each link, we remove the show-menu class
- 
+
  navLink.forEach((link) =>{
   link.addEventListener('click',() =>{
     navMenu.classList.remove('show-menu')
     navUpperBarShow.style.display='flex'
   })
  })
+
+   /*================= CHANGE BACKGROUND HEADER ==================*/
+
+    window.addEventListener('scroll',() =>{
+      this.scrollY >= 50 ? header.classList.add('bg-header')
+                         : header.classList.remove('bg-header')
+    })
