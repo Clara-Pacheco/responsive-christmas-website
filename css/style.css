@@ -138,6 +138,10 @@ img {
 
 }
 
+/* .nav__menu{
+  display: none;
+} */
+
 .upper-bar-open {
   width: 100%;
   display: flex;
@@ -181,18 +185,14 @@ img {
 @media screen and (max-width: 767px){
   .nav__menu {
     position: absolute;
-    top: 100px;
+    top: -400px;
     left: 50%;
     transform: translateX(-50%);
     background-color: var(--body-color);
     width: 100px;
     padding-block: 3.5rem;
-    transition: top .4s;
+    transition: top .7s;
   }
-
-  /* .nav__menu {
-   display: none;
-  } */
 
 
 .nav__list {
@@ -239,22 +239,14 @@ img {
   right: -6.5rem;
   bottom: -1rem;
   transform: rotate(15deg);
+  }
+
 }
-
-
-}
-
-
-
-
-
-
-
-
 
 /*================= SHOW MENU =====================*/
-
-
+.show-menu {
+  top: 8rem;
+}
 
 
 /*================= CHANGE BACKGROUND HEADER =====================*/
