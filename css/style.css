@@ -235,10 +235,10 @@ img {
   color: var(--first-color);
 }
 
-.nav__img-1,
+/* .nav__img-1,
 .nav__img-2 {
-  /* position: absolute; */
-}
+  /* position: absolute;
+} */
 
 .nav__close {
   position: absolute;
@@ -250,20 +250,23 @@ img {
 }
 
 .nav__img-1 {
-  position: relative;
+  /* position: relative; */
   width: 40px;
-  top: -10rem;
-  left: 5rem;
+  /* top: -10rem;
+  left: 5rem; */
+  margin-bottom: 28px;
+  margin-left: 30px;
   transform: rotate(-15deg);
   animation: var(--animate-snow-1);
   
 }
 
 .nav__img-2 {
-  position: relative;
+  /* position: relative; */
   width: 60px;
-  right: -18.5rem;
-  bottom: -1rem;
+  /* right: -18.5rem;
+  bottom: -1rem; */
+  margin-left: 85px;
   transform: rotate(15deg);
   animation: var(--animate-snow-2);
   }
