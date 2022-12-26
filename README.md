@@ -18,15 +18,16 @@
 <br>
 ## 🎈 Sobre o projeto: 
 
-- Responsivo Christmas Website Design usando HTML CSS & JavaScript;
+- Christmas Website Design responsivo utilizando HTML CSS & JavaScript;
 - Inclui efeito 'Parallax';
 - Interface escura e elegante;
 - Rolagem suave em cada sessão;
 - Contém animações na rolagem de tela;
-- Desenvolvido primeiramente com a metodologia 'Mobile First, para  após serem feitas as adapações necessárias para os demais diversos tamanhos de dispositivos, com o uso de @media queries;
+- Desenvolvido primeiramente com a metodologia 'Mobile First, para  após serem feitas as adapações necessárias para os demais tamanhos de dispositivos, com o uso de @media queries;
 - Compatível com todos os dispositíves móveis;
 - Possui uma interface bonita e agradável, refletindo a energia natalina no design do site.
 <br>
+
 ## 💻 Projeto Preview
 
 O resultado final desse projeto deve ser algo em torno de:
@@ -45,7 +46,8 @@ O resultado final desse projeto deve ser algo em torno de:
      -- RellaxJS;<br>
      -- ScrollReveal<br>
 <br>
-### Informações  
+
+### Informações
 
 📅 **Início: 24.12.2022**
 
