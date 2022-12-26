@@ -85,3 +85,9 @@ if(navClose){
     window.addEventListener('scroll',()=> {
       const scrollY = window.pageYOffset
     })
+
+    /*=============================== PARALLAX ================================ */
+
+    let parallax = new Rellax('.parallax');
+
+    /*=============================== GSAP ANIMATION ================================ */
