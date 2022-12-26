@@ -39,12 +39,12 @@ O resultado final desse projeto deve ser algo em torno de:
  - HTML5,<br>
  - CSS3,<br>
  - Vanilla JS;<br>
-  -Motion Design with:<br>
-     -- gsap;<br>
-     -- Tilt JS;<br>
-     -- GreenSock;<br>
-     -- RellaxJS;<br>
-     -- ScrollReveal<br>
+- Motion Design with:<br>
+     - gsap;<br>
+     - Tilt JS;<br>
+     - GreenSock;<br>
+     - RellaxJS;<br>
+     - ScrollReveal<br>
 <br>
 
 ## 💬 Informações
@@ -61,8 +61,9 @@ O resultado final desse projeto deve ser algo em torno de:
 
 💜 Baseado em [Bedimcode](https://www.youtube.com/c/Bedimcode) Thank you!
 
+<p align="center">
 Feito com 💜 por Clara 🚀
-
+</p>
 
 
 
