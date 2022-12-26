@@ -207,7 +207,7 @@ img {
 @media screen and (max-width: 767px){
   .nav__menu {
     position: absolute;
-    top: -400px;
+    top: -500px;
     left: 50%;
     transform: translateX(-50%);
     background-color: var(--body-color);
