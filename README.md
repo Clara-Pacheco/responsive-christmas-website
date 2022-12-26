@@ -11,10 +11,11 @@
 <br>
 <br>
 
-## :octocat: Responsive Christmas Website Design Using HTML CSS & JavaScript | Parallax Scrolling Website 
+# :octocat: Responsive Christmas Website Design Using HTML CSS & JavaScript | Parallax Scrolling Website 
+<br>
 
 ![preview](https://github.com/Clara-Pacheco/responsive-christmas-website/blob/main/img/preview.png)
-
+<br>
 ## 🎈 Sobre o projeto: 
 
 - Responsivo Christmas Website Design usando HTML CSS & JavaScript;
@@ -25,13 +26,13 @@
 - Desenvolvido primeiramente com a metodologia 'Mobile First, para  após serem feitas as adapações necessárias para os demais diversos tamanhos de dispositivos, com o uso de @media queries;
 - Compatível com todos os dispositíves móveis;
 - Possui uma interface bonita e agradável, refletindo a energia natalina no design do site.
-
+<br>
 ## 💻 Projeto Preview
 
 O resultado final desse projeto deve ser algo em torno de:
 
 ![site preview]()
-
+<br>
 ## 🧪 Tecnologias 
 
  - HTML5,<br>
@@ -43,7 +44,7 @@ O resultado final desse projeto deve ser algo em torno de:
      -- GreenSock;<br>
      -- RellaxJS;<br>
      -- ScrollReveal<br>
-
+<br>
 ### Informações  
 
 📅 **Início: 24.12.2022**
@@ -55,6 +56,8 @@ O resultado final desse projeto deve ser algo em torno de:
 🌎 **Result Preview: [Veja o Projeto](https://clara-pacheco.github.io/responsive-christmas-website/)**
 
 ☑️ **Task:** Construir um site natalino
+
+💜 Baseado em [Bedimcode](https://www.youtube.com/c/Bedimcode) Thank you!
 
 Feito com 💜 por Clara 🚀
 
