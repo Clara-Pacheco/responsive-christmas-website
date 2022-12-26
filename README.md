@@ -15,14 +15,14 @@
 
 ![preview](https://github.com/Clara-Pacheco/responsive-christmas-website/blob/main/img/preview.png)
 
-## 🎈 O que será abordado nesse projeto:
+## 🎈 Sobre o projeto: 
 
 - Responsivo Christmas Website Design usando HTML CSS & JavaScript;
 - Inclui efeito 'Parallax';
 - Interface escura e elegante;
 - Rolagem suave em cada sessão;
 - Contém animações na rolagem de tela;
-- Desenvolvido primeiramente com a metodologia 'Mobile First, para após serem feitas as adapações necessárias para os demais diversos tamanhos de dispositivos, com o uso de @media queries;
+- Desenvolvido primeiramente com a metodologia 'Mobile First, para  após serem feitas as adapações necessárias para os demais diversos tamanhos de dispositivos, com o uso de @media queries;
 - Compatível com todos os dispositíves móveis;
 - Possui uma interface bonita e agradável, refletindo a energia natalina no design do site.
 
@@ -36,14 +36,13 @@ O resultado final desse projeto deve ser algo em torno de:
 
  HTML5,<br>
  CSS3,<br>
- Sass<br>
  Vanilla JS;<br>
  Motion Design with:<br>
      gsap;<br>
      Tilt JS;<br>
      GreenSock;<br>
-
-![Christmas]()
+     RellaxJS;<br>
+     ScrollReveal<br>
 
 ### Informações  
 
