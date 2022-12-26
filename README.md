@@ -47,7 +47,7 @@ O resultado final desse projeto deve ser algo em torno de:
      -- ScrollReveal<br>
 <br>
 
-### Informações
+## 💬 Informações
 
 📅 **Início: 24.12.2022**
 
