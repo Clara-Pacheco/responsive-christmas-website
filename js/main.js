@@ -65,26 +65,29 @@ if(navClose){
     /*================= SHOW SECTIONS ACTIVE LINK ================*/
 
     const sections = document.querySelectorAll('section[id]')
-
     console.log(sections)
 
-    sections.forEach((current) => {
-      const sectionHeight = current.offsetHeight,
-            sectionTop = current.offsetTop - 58,
-            sectionId = current.getAttribute('id'),
-            sectionsClass = document.querySelector('.nav__menu a[href*=' + sectionId + ']')
-
-
-          if(scrollY > sectionTop && scrollY <= sectionTop + sectionHeight){
-            sectionsClass.classList.add('active-link')
-          }else{
-            sectionsClass.classList.remove('active-link')
-          }
-    })
-
-    window.addEventListener('scroll',()=> {
+    const scrollActive = function(){
       const scrollY = window.pageYOffset
-    })
+      
+      sections.forEach((current) => {
+        const sectionHeight = current.offsetHeight
+        console.log(sectionHeight)
+        const sectionTop = current.offsetTop - 58
+        console.log(sectionTop)
+        const sectionId = current.getAttribute('id')
+        console.log(sectionId)
+        const sectionsClass = document.querySelector('.nav__menu a[href*=' + sectionId + ']')
+        console.log(sectionsClass)
+
+            if(scrollY > sectionTop && scrollY <= sectionTop + sectionHeight){
+              sectionsClass.classList.add('active-link')
+            }else{
+              sectionsClass.classList.remove('active-link')
+            }
+      })
+    }
+    window.addEventListener('scroll',scrollActive)
 
     /*=============================== PARALLAX ================================ */
 
