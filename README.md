@@ -32,7 +32,7 @@
 
 O resultado final desse projeto deve ser algo em torno de:
 
-![site preview](https://github.com/Clara-Pacheco/responsive-christmas-website/blob/main/video/xmas_github.mp4)
+![site preview](https://github.com/Clara-Pacheco/responsive-christmas-website/blob/main/video/xmas_github.gif)
 <br>
 ## 🧪 Tecnologias 
 
