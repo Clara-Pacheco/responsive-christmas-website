@@ -57,7 +57,7 @@ O resultado final desse projeto deve ser algo em torno de:
 
 🌎 **Result Preview: [Veja o Projeto](https://clara-pacheco.github.io/responsive-christmas-website/)**
 
-☑️ **Task:** Construir um site natalino
+☑️ **Task:** Construir um site natalino com animações.
 
 💜 Baseado em [Bedimcode](https://www.youtube.com/c/Bedimcode) Thank you!
 
