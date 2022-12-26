@@ -1,5 +1,5 @@
 <div align="center">
-<img width="400px" src="https://e7.pngegg.com/pngimages/835/977/png-clipart-christmas-fonts-merry-christmas.png" alt="">&nbsp;&nbsp;&nbsp;
+<img width="400px" src="https://w7.pngwing.com/pngs/588/441/png-transparent-merry-christmas-poster-font-merry-christmas-font-merry-christmas.png" alt="">&nbsp;&nbsp;&nbsp;
 <br>
 
 <p align="center">
@@ -30,7 +30,7 @@ responsive-christmas-website?style=for-the-badge"/>
 
 O resultado final desse projeto deve ser algo em torno de:
 
-![site preview](https://github.com/Clara-Pacheco/spiderman/blob/main/video/site-preview2.gif)
+![site preview]()
 
 ## 🧪 Tecnologias 
 
@@ -43,7 +43,7 @@ O resultado final desse projeto deve ser algo em torno de:
      Tilt JS;<br>
      GreenSock;<br>
 
-![spiderman](https://github.com/Clara-Pacheco/spiderman/blob/main/images/image%204.png)
+![Christmas]()
 
 ### Informações  
 
@@ -53,7 +53,7 @@ O resultado final desse projeto deve ser algo em torno de:
 
 🕛 **Status:** Concluído✔️
 
-🌎 **Result Preview: [Veja o Projeto](https://clara-pacheco.github.io/spiderman/)**
+🌎 **Result Preview: [Veja o Projeto](https://clara-pacheco.github.io/responsive-christmas-website/)**
 
 ☑️ **Task:** Construir um site natalino
 
