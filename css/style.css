@@ -852,15 +852,17 @@ img {
     width: 500px;
     bottom: 28rem;
   }
-
-
-
-
-
   
 }
 
 /* For 2k+ devices*/
 
+@media screen and (min-width: 1700px) {
+  .home {
+    max-width: 1280px;
+    height: 990px;
+    margin-inline: auto;
+  }
+}
 
 
