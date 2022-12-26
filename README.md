@@ -3,12 +3,9 @@
 <br>
 
 <p align="center">
-<img src="https://img.shields.io/github/last-commit/Clara-Pacheco/
-responsive-christmas-website?style=for-the-badge"/>&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/github/repo-size/Clara-Pacheco/
-responsive-christmas-website?style=for-the-badge"/>&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/github/languages/count/Clara-Pacheco/
-responsive-christmas-website?style=for-the-badge"/>
+<img src="https://img.shields.io/github/last-commit/Clara-PachecoClara-Pacheco/responsive-christmas-website?style=for-the-badge"/>&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/github/repo-size/Clara-Pacheco/Clara-Pacheco/responsive-christmas-website?style=for-the-badge"/>&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/github/languages/count/Clara-Pacheco/Clara-Pacheco/responsive-christmas-website?style=for-the-badge"/>
 </p>
 <br>
 <br>
